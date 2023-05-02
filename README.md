@@ -1,27 +1,35 @@
-# InicioConteudo
+   # M1S12 Defesa Exercício NgClass
+**Projeto avaliativo do módulo 1 | Curso FullStack elaborado pela SESI SENAI.**
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
+> **Descrição:** Uso da diretiva de ngClass para adicionar o remover uma determinada classe do css, sendo esta modificada dentro do template html.
 
-## Development server
+## Técnicas e tecnologias utilizadas
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
++ **Versionamento** para versionamento de código, aplicações e utilização no Github.
 
-## Code scaffolding
++ **Angular CLI | versão 15.2.2** para gerar componentes, serviços e rotas. 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
++ **JavaScript** para tipagem dinâmica, funcionalidades, baseada em variáveis, objetos, eventos, funções e mais. 
 
-## Build
++ **HTML5** e **CSS3** para HTML5 (elementos semânticos) e CSS (seletores, principais estilos, layouts e flexbox).
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Como executar
 
-## Running unit tests
+1. Clone este repositório para o seu computador. 
+2. Abra o terminal na pasta do projeto e execute o comando `npm install` para instalar as dependências necessárias.
+3. Execute o comando `ng serve` para iniciar o servidor de desenvolvimento.
+4. Abra o navegador e acesse `http://localhost:4200/`.
+     
+## Como contribuir
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+**NOTA:** É provável que dentro do projeto você encontre erros, bugs e seções incompletos, é normal, 
+pois é apenas meu primeiro contato direto no desenvolvimento de um projeto no framework Angular, 
+onde deposito o conhecimento e aprendizado visto nas aulas.
 
-## Running end-to-end tests
+Se você deseja contribuir com este projeto, siga as seguintes etapas: 
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1. Crie um fork deste repositório em sua conta do GitHub. 
+2. Clone o fork em seu computador. 
+3. Crie uma nova branch com um nome descritivo da sua contribuição (por exemplo, "adicionar-nova-página"). 
+4. Faça as alterações e os commits necessários em sua branch. 
+5. Envie um pull request para o repositório principal, explicando suas mudanças.
